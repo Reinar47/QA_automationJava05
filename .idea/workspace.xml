@@ -4,32 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8b8e53a-a412-438c-a909-cdeba65dc7d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hv_7/BaseEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hv_7/EmployeeUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hv_7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hv_7/MonthUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hv_7/NewEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hv_7/NewManeger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hv_7/immutableMonth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hv_7/EmployeeUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/CalculatorLaminatePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HealPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/BaseTestUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/CalculatorLaminate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Heal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/InputData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/MyFirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/TestHw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/TestMebel.java" afterDir="false" />
+    <list default="true" id="c8b8e53a-a412-438c-a909-cdeba65dc7d4" name="Changes" comment="test 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,19 +33,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;TestNG&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG&quot;: &quot;&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/reina/IdeaProjects/MyMaven&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "TestNG",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG": "",
+    "last_opened_file_path": "C:/Users/reina/IdeaProjects/Test",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\reina\IdeaProjects\MyMaven\src\main\java\hv_7" />
@@ -192,6 +168,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666773400834</updated>
     </task>
+    <task id="LOCAL-00001" summary="test 1">
+      <created>1667321221566</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667321221566</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,5 +188,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="test 1" />
   </component>
 </project>
